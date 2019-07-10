@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/25 19:24:51.000.775,=C:\Users\lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/09 18:15:11.000.926,=C:\Users\lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/22 11:37:23.000.355,=C:\Users\lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/27 09:36:50.000.050,=C:\Users\lucas\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2018/10/27 09:36:56.000.763,=C:\Users\lucas\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2019/03/19 18:33:50.000.207,=C:\Users\lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/24 15:48:40.000.502,=C:\Users\lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/04 12:31:02.000.459,=C:\Users\lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/11 22:22:24.000.583,=C:\Users\lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/11 22:23:14.000.416,=C:\Users\lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/13 15:24:49.000.424,=C:\Users\lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/13 15:24:56.000.909,=C:\Users\lucas\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/06/13 15:25:09.000.852,C:\Users\lucas\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\lucas\Desktop\Estuido Programacion\DICCIONARIO\Unit2.pas</Transaction>
+    <Transaction>2019/06/13 15:25:11.000.249,C:\Users\lucas\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\lucas\Desktop\Estuido Programacion\DICCIONARIO\Unit1.pas</Transaction>
+    <Transaction>2019/06/13 15:25:11.000.249,C:\Users\lucas\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\lucas\Desktop\Estuido Programacion\DICCIONARIO\Unit1.dfm</Transaction>
+    <Transaction>2019/06/13 15:25:12.000.546,C:\Users\lucas\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\lucas\Desktop\Estuido Programacion\DICCIONARIO\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
